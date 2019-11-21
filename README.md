@@ -12,7 +12,10 @@ This project allows users to request and review statistics related to bikeshare 
 
 Files used
 
-bikeshare.py washington.csv new_york_city.csv chicago.csv
+bikeshare.py 
+washington.csv 
+new_york_city.csv 
+chicago.csv
 
 Credits
 
