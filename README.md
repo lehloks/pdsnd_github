@@ -17,6 +17,9 @@ washington.csv
 new_york_city.csv 
 chicago.csv
 
-Credits
+readme.txt
 
+
+Credits
+Lectures for Programming for Data Science
 Thanks to Juno Lee and Richard Kalehoff of Udacity for such a good project guidence!
