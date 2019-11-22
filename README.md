@@ -3,7 +3,7 @@ Date created
 2019.11.22
 
 
-Project Title:
+Project Title: US Bike Share Analysis
 
 Bikeshare Data Exploration Tool
 
@@ -22,5 +22,5 @@ readme.txt
 
 
 Credits
-Lectures for Programming for Data Science
+Lectures for Programming for Data Science and stack over flow 
 Thanks to Juno Lee and Richard Kalehoff of Udacity for such a good project guidence!
