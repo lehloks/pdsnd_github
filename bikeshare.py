@@ -2,13 +2,17 @@ import time
 import pandas as pd
 import numpy as np
 ## Make sure that the .csv files are downloaded from the cloud.
+
+
+
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, month, and day to analyze for the Udacity Programming for data science, Bike share project.
 
     Returns:
         (str) city - name of the city to analyze
