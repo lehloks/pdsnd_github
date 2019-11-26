@@ -184,7 +184,7 @@ def user_stats(df, city):
     print('-'*40)
 
 def restart():
-    """Allows users to choose to restart or quit tool"""
+    """Allows users to choose to restart or quit tool when running the code"""
     restart = input('\nWould you like to restart? Enter yes or no.\n')
     if restart.lower() != 'yes':
         print("Okay, bye, and please come back soon. The program is only getting better and we need to save the planet!")
